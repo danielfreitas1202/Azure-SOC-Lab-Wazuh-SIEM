@@ -262,3 +262,5 @@ Cada fonte oferece uma perspectiva diferente:
 A combinação dessas fontes permite ampliar a visibilidade sobre as atividades dos endpoints. Entretanto, a coleta de telemetria não equivale, por si só, à detecção de todas as ameaças. A identificação de comportamentos suspeitos depende também das regras de detecção, da correlação entre eventos e da análise realizada pelo analista.
 
 Este documento descreve as funcionalidades testadas no laboratório. Recursos ainda não instalados ou validados, como a coleta por meio do `auditd` no Linux e regras personalizadas de detecção, não são considerados implementados nesta etapa.
+
+
