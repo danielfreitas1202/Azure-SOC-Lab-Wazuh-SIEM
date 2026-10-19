@@ -69,6 +69,7 @@ O evento de ID `1` corresponde à criação de um processo e pode fornecer infor
 É importante destacar que a presença de um evento Sysmon não implica necessariamente a geração de um alerta de segurança. A coleta do evento e sua classificação pelas regras do Wazuh são etapas distintas.
 
 <img width="1542" height="812" alt="image" src="https://github.com/user-attachments/assets/afc6b05d-9ad9-4f20-91a5-baefe4df171d" />
+<img width="1543" height="811" alt="image" src="https://github.com/user-attachments/assets/bbe8d4e8-09dd-437e-8fc7-807cc0dd211f" />
 
 ## 3. Coleta de logs no Linux
 
